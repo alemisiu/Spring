@@ -1,17 +1,17 @@
-package com.example.springboot.web.service;
+// package com.example.springboot.web.service;
 
-import java.util.List;
+// import java.util.List;
 
-import com.example.springboot.web.entity.Employee;
+// import com.example.springboot.web.entity.Employee;
 
-public interface EmployeeService {
+// public interface EmployeeService {
 
-    List<Employee> findAll();
+// List<Employee> findAll();
 
-    Employee findById(int theId);
+// Employee findById(int theId);
 
-    Employee save(Employee theEmployee);
+// Employee save(Employee theEmployee);
 
-    void deleteById(int theId);
+// void deleteById(int theId);
 
-}
+// }

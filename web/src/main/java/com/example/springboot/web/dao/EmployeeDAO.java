@@ -1,17 +1,17 @@
-package com.example.springboot.web.dao;
+// package com.example.springboot.web.dao;
 
-import java.util.List;
+// import java.util.List;
 
-import com.example.springboot.web.entity.Employee;
+// import com.example.springboot.web.entity.Employee;
 
-public interface EmployeeDAO {
+// public interface EmployeeDAO {
 
-    List<Employee> findAll();
+//     List<Employee> findAll();
 
-    Employee findById(int theId);
+//     Employee findById(int theId);
 
-    Employee save(Employee theEmployee);
+//     Employee save(Employee theEmployee);
 
-    void deleteById(int theId);
+//     void deleteById(int theId);
 
-}
+// }
